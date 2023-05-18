@@ -1,4 +1,4 @@
-! Hack Protect generated phishing list - ZIP Domains on 18 May 2023 
+! Hack Protect generated list of .ZIP Domains on 18 May 2023 
 ! Homepage: https://hack-protect.si/
 
 0-beta.zip
