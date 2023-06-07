@@ -1,4 +1,4 @@
-! Hack Protect generated list of .ZIP Domains on 05 Jun 2023 
+! Hack Protect generated list of .ZIP Domains on 07 Jun 2023 
 ! Homepage: https://hack-protect.si/
 
 0-beta.zip
@@ -6731,3 +6731,60 @@ valeofinancial.zip
 amethyst.zip
 cnh.zip
 autokropp.zip
+bloomberg.zip
+onlymalware.zip
+meilleurtaux.zip
+mckinsey.zip
+school-stuff.zip
+bmap.zip
+berkshirehathaway.zip
+deutschebank.zip
+hitrust.zip
+linx.zip
+3builders.zip
+j-m.zip
+bhhc.zip
+oversized.zip
+wolf3d.zip
+full-package.zip
+aussec.zip
+pardeevirus.zip
+printf.zip
+knowhow.zip
+bool.zip
+mufg.zip
+talus.zip
+siah.zip
+telegraph.zip
+gallardo.zip
+onefirewall.zip
+nightmares.zip
+maliciousdownload.zip
+fedramp.zip
+bmo.zip
+uefa.zip
+notorious.zip
+systems32.zip
+br4guette.zip
+keylog.zip
+campuswire.zip
+poufne.zip
+probablyavirus.zip
+sine.zip
+emirates.zip
+attaccamento.zip
+master-source.zip
+peterka.zip
+hellobank.zip
+bhhs.zip
+dpdhl.zip
+office2021.zip
+bobbyg.zip
+yurimi.zip
+nirgal.zip
+trumpvirus.zip
+yoink.zip
+soc2.zip
+menesarsch.zip
+ovhcloud.zip
+aeriesnetupdate.zip
