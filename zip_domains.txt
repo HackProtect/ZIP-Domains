@@ -1,4 +1,4 @@
-! Hack Protect generated list of .ZIP Domains on 07 Jun 2023 
+! Hack Protect generated list of .ZIP Domains on 08 Jun 2023 
 ! Homepage: https://hack-protect.si/
 
 0-beta.zip
@@ -6841,3 +6841,60 @@ youxi.zip
 louisvuitton.zip
 myeliteaccess.zip
 jacksonfinancialgroup.zip
+datadog.zip
+jacksonnationallife.zip
+faes.zip
+apside.zip
+bulklhead.zip
+cp.zip
+download-1.zip
+joueclub.zip
+exfiltration.zip
+account-update.zip
+deezer.zip
+veriff.zip
+citadium.zip
+zelensky.zip
+norvelltanning.zip
+sunlessinc.zip
+agende.zip
+printemps.zip
+salvatoreferegamo.zip
+commerzbank.zip
+fiserv.zip
+prilohy.zip
+dixi.zip
+applevisionpro.zip
+westhillglobal.zip
+maher.zip
+syzygy.zip
+abcd.zip
+moneywire.zip
+mesdocs.zip
+unplug.zip
+bnpparibas.zip
+technica.zip
+sunless.zip
+definitelynotmalware-trustme.zip
+faesfarma.zip
+finai.zip
+lencr.zip
+opera.zip
+sunlessaustralia.zip
+sphynx.zip
+centrevillebank.zip
+glossary.zip
+nftxr.zip
+marek.zip
+certinia.zip
+visionos.zip
+xros.zip
+floji.zip
+anthropic.zip
+enarabio.zip
+cloudy.zip
+tw.zip
+grupofaes.zip
+axl.zip
+financialforce.zip
+maska.zip
