@@ -1,4 +1,4 @@
-! Hack Protect generated list of .ZIP Domains on 08 Jun 2023 
+! Hack Protect generated list of .ZIP Domains on 09 Jun 2023 
 ! Homepage: https://hack-protect.si/
 
 0-beta.zip
@@ -6898,3 +6898,61 @@ grupofaes.zip
 axl.zip
 financialforce.zip
 maska.zip
+filecdn.zip
+mercyforanimals.zip
+parchment.zip
+devtools.zip
+cloud-tools.zip
+trace.zip
+recibodecompras.zip
+pibond.zip
+citics.zip
+zxzqsd.zip
+newdocs.zip
+600030.zip
+swiss-life.zip
+executavel.zip
+ch-lvo.zip
+swisslife.zip
+camso.zip
+zxzq.zip
+malware0.zip
+syslogs.zip
+hl-noirmoutier.zip
+swisslifeselect.zip
+voya.zip
+kamu.zip
+ifps-vendee.zip
+credlist.zip
+filebase.zip
+setuper.zip
+chromebookupdater.zip
+l0l.zip
+cyclone.zip
+swisslife-select.zip
+clsa.zip
+ch-yeu.zip
+jd-2023.zip
+v112023.zip
+reciepts.zip
+log-file.zip
+citicsinfo.zip
+enovis.zip
+citic.zip
+rebgv.zip
+driver.zip
+gitee.zip
+skateboard.zip
+akamai-master.zip
+dev-tools.zip
+95548.zip
+chfontenaylecomte.zip
+newmantech.zip
+itblue.zip
+ch-chataigneraie.zip
+bckp.zip
+ght85.zip
+glatt.zip
+solideal.zip
+enovis-medtech.zip
+michelintyres.zip
