@@ -1,4 +1,4 @@
-! Hack Protect generated list of .ZIP Domains on 10 Jun 2023 
+! Hack Protect generated list of .ZIP Domains on 11 Jun 2023 
 ! Homepage: https://hack-protect.si/
 
 0-beta.zip
@@ -7017,3 +7017,39 @@ fxs.zip
 zoey.zip
 document01.zip
 bryan.zip
+archiving.zip
+komprimiert.zip
+2023offer.zip
+eigene-dokumente.zip
+megastore.zip
+verysafe.zip
+viamichelin.zip
+anexos.zip
+leaked-data.zip
+zugangsdaten.zip
+michelinrestaurant.zip
+woah.zip
+vtmutins.zip
+bigblue.zip
+kvcc.zip
+allopneus.zip
+jahresabschluss.zip
+ilya.zip
+hdd.zip
+jobyaviation.zip
+chiusuralampo.zip
+michelinman.zip
+bitch.zip
+axtronix.zip
+stratosphere.zip
+psiclipse.zip
+guidemichelin.zip
+narwhal.zip
+gehaltsabrechnung.zip
+obie.zip
+bibendum.zip
+jackw.zip
+mellonflippo.zip
+fibu.zip
+catboys.zip
+vermontmutual.zip
