@@ -1,4 +1,4 @@
-! Hack Protect generated list of .ZIP Domains on 11 Jun 2023 
+! Hack Protect generated list of .ZIP Domains on 15 Jun 2023 
 ! Homepage: https://hack-protect.si/
 
 0-beta.zip
@@ -7053,3 +7053,46 @@ mellonflippo.zip
 fibu.zip
 catboys.zip
 vermontmutual.zip
+coxwifi.zip
+westfieldgrp.zip
+russie.zip
+dotfile.zip
+bnpparibas-am.zip
+fuzz.zip
+ggez.zip
+bmoharris.zip
+microsoft-defender.zip
+bankofmontreal.zip
+your-reservation.zip
+matchbox.zip
+o365forbusinesstraining.zip
+qrcodes.zip
+paxi.zip
+aliberico.zip
+june2023.zip
+bmonesbittburns.zip
+bmoharrisbank.zip
+braindamage.zip
+securitypizza.zip
+resultados.zip
+v64.zip
+mnz10fk.zip
+wolverine.zip
+botw.zip
+liquidaciones.zip
+0mega.zip
+user-attachment.zip
+iberfoil.zip
+tar7z.zip
+b00.zip
+invoice-0003156.zip
+asg93kg.zip
+tracking-code.zip
+danfoss.zip
+ukutt.zip
+larson.zip
+westfieldgroupcountryclub.zip
+census.zip
+ioctl.zip
+usuarios.zip
+larcore.zip
