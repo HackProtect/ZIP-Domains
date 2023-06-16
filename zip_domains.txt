@@ -1,4 +1,4 @@
-! Hack Protect generated list of .ZIP Domains on 15 Jun 2023 
+! Hack Protect generated list of .ZIP Domains on 16 Jun 2023 
 ! Homepage: https://hack-protect.si/
 
 0-beta.zip
@@ -7096,3 +7096,40 @@ census.zip
 ioctl.zip
 usuarios.zip
 larcore.zip
+pingpong.zip
+stacksville.zip
+imanage.zip
+zippermachine.zip
+zkapp.zip
+mitchschenk.zip
+spiderman.zip
+lowenstein.zip
+donkeyisland.zip
+misterfly.zip
+sgsgroup.zip
+frontdoor.zip
+sack.zip
+whitelist.zip
+zippdfiles2.zip
+kingofthehill.zip
+amerren.zip
+gmod.zip
+3ta9xa7.zip
+caiendar.zip
+xcdn.zip
+quilvestcapitalam.zip
+taurus.zip
+blackcash.zip
+westfieldinsurance.zip
+zippermachines.zip
+voorbeeld.zip
+solar2home.zip
+quilvest.zip
+ellipsis.zip
+emailfileshare.zip
+chinaunicom.zip
+septodont.zip
+batcave.zip
+wardogs.zip
+quilvestcapital.zip
+374362946.zip
