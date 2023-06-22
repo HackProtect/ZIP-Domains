@@ -1,4 +1,4 @@
-! Hack Protect generated list of .ZIP Domains on 16 Jun 2023 
+! Hack Protect generated list of .ZIP Domains on 22 Jun 2023 
 ! Homepage: https://hack-protect.si/
 
 0-beta.zip
@@ -7133,3 +7133,14 @@ batcave.zip
 wardogs.zip
 quilvestcapital.zip
 374362946.zip
+stringer.zip
+datareport.zip
+pkzip.zip
+gyeon.zip
+snimak.zip
+dhl.zip
+espe.zip
+blacksheep.zip
+circlek.zip
+archival.zip
+hometab.zip
