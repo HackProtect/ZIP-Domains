@@ -1,4 +1,4 @@
-! Hack Protect generated list of .ZIP Domains on 22 Jun 2023 
+! Hack Protect generated list of .ZIP Domains on 26 Jun 2023 
 ! Homepage: https://hack-protect.si/
 
 0-beta.zip
@@ -7144,3 +7144,26 @@ blacksheep.zip
 circlek.zip
 archival.zip
 hometab.zip
+judo-capital.zip
+avacloud.zip
+awhittle2.zip
+baptiste.zip
+jeztech.zip
+n-b.zip
+judo-bank.zip
+fig.zip
+yammer.zip
+caneled.zip
+zuck.zip
+cloudbird.zip
+ishitmypants.zip
+guidepointsecurity.zip
+meatball.zip
+ypoconnect.zip
+astrolite.zip
+plush.zip
+mimos.zip
+fqdn.zip
+debug-xros.zip
+judocapital.zip
+something.zip
