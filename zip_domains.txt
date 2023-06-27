@@ -1,4 +1,4 @@
-! Hack Protect generated list of .ZIP Domains on 26 Jun 2023 
+! Hack Protect generated list of .ZIP Domains on 27 Jun 2023 
 ! Homepage: https://hack-protect.si/
 
 0-beta.zip
@@ -7167,3 +7167,11 @@ fqdn.zip
 debug-xros.zip
 judocapital.zip
 something.zip
+p2c.zip
+luma.zip
+endpoints.zip
+totallysafexe.zip
+justpictures.zip
+masao.zip
+nisanth.zip
+mueller.zip
