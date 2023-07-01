@@ -1,4 +1,4 @@
-! Hack Protect generated list of .ZIP Domains on 27 Jun 2023 
+! Hack Protect generated list of .ZIP Domains on 01 Jul 2023 
 ! Homepage: https://hack-protect.si/
 
 0-beta.zip
@@ -7175,3 +7175,19 @@ justpictures.zip
 masao.zip
 nisanth.zip
 mueller.zip
+vinci-autoroute.zip
+1do.zip
+kode.zip
+indicatorsofcompromise.zip
+epos-audio.zip
+89north.zip
+ruben.zip
+distlib.zip
+mbs.zip
+westernu.zip
+grasonstadler.zip
+noraa.zip
+cait.zip
+zelly.zip
+oticonmedical.zip
+spaschlaefer.zip
