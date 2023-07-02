@@ -1,4 +1,4 @@
-! Hack Protect generated list of .ZIP Domains on 01 Jul 2023 
+! Hack Protect generated list of .ZIP Domains on 02 Jul 2023 
 ! Homepage: https://hack-protect.si/
 
 0-beta.zip
@@ -7191,3 +7191,13 @@ cait.zip
 zelly.zip
 oticonmedical.zip
 spaschlaefer.zip
+ratiopharm.zip
+actavis.zip
+teva.zip
+copaxone.zip
+ma-ang-dallmayr.zip
+heretic.zip
+appgate-profile.zip
+tagi.zip
+austedo.zip
+0x1c.zip
