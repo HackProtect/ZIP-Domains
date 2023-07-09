@@ -1,4 +1,4 @@
-! Hack Protect generated list of .ZIP Domains on 02 Jul 2023 
+! Hack Protect generated list of .ZIP Domains on 09 Jul 2023 
 ! Homepage: https://hack-protect.si/
 
 0-beta.zip
@@ -7201,3 +7201,33 @@ appgate-profile.zip
 tagi.zip
 austedo.zip
 0x1c.zip
+dcentertainment.zip
+the-mail.zip
+metro.zip
+warnerbroscareers.zip
+wbiegames.zip
+dccomics.zip
+comdirect.zip
+junyu.zip
+novo.zip
+eodonnell.zip
+shedmediaus.zip
+ellenshop.zip
+wizardingworld.zip
+ducky.zip
+allegro.zip
+grandprix.zip
+newscientist.zip
+scooby.zip
+ellentube.zip
+wbgamesmontreal.zip
+f1.zip
+aiueo.zip
+valak.zip
+anydeskinstall.zip
+shedmedia.zip
+wonderwoman.zip
+fgwilson.zip
+harrypotter.zip
+justiceleague.zip
+hogwarts.zip
