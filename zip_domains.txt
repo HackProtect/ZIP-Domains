@@ -1,4 +1,4 @@
-! Hack Protect generated list of .ZIP Domains on 09 Jul 2023 
+! Hack Protect generated list of .ZIP Domains on 10 Jul 2023 
 ! Homepage: https://hack-protect.si/
 
 0-beta.zip
@@ -7231,3 +7231,57 @@ fgwilson.zip
 harrypotter.zip
 justiceleague.zip
 hogwarts.zip
+bitget.zip
+relationinsurance.zip
+trezor.zip
+paygo.zip
+powerreviews.zip
+opendirectory.zip
+myballz.zip
+grupocronica.zip
+l1nk.zip
+turner.zip
+retenciones.zip
+bithumb.zip
+brucegraham.zip
+peregrine.zip
+directoryarchive.zip
+deruiter.zip
+romih.zip
+xometry.zip
+diamondjewelry.zip
+talentconnect.zip
+cryptgenkey.zip
+stealth.zip
+cartoonnetwork.zip
+bzzagent.zip
+spur.zip
+grupoolmos.zip
+warnermedia.zip
+pancakeswap.zip
+adultswim.zip
+lbank.zip
+uniswap.zip
+bscscan.zip
+prevelo.zip
+dydx.zip
+vistage.zip
+powerreview.zip
+serverside.zip
+sebts.zip
+bootanimation.zip
+e-z.zip
+tcm.zip
+folderarchive.zip
+cronica.zip
+labjewelry.zip
+schmid.zip
+that.zip
+bybit.zip
+leoc.zip
+pacesupply.zip
+trailtime.zip
+scotiangold.zip
+feir.zip
+labdiamonds.zip
+labdiamond.zip
