@@ -1,4 +1,4 @@
-! Hack Protect generated list of .ZIP Domains on 10 Jul 2023 
+! Hack Protect generated list of .ZIP Domains on 30 Aug 2023 
 ! Homepage: https://hack-protect.si/
 
 0-beta.zip
@@ -7285,3 +7285,13 @@ scotiangold.zip
 feir.zip
 labdiamonds.zip
 labdiamond.zip
+rutor.zip
+bip.zip
+avaflux.zip
+avalanchewarp.zip
+acrobatupdater.zip
+avateleporter.zip
+playonlinegames.zip
+avawarp.zip
+avaxteleporter.zip
+leonhard.zip
