@@ -1,4 +1,4 @@
-! Hack Protect generated list of .ZIP Domains on 23 Sep 2023  
+! Hack Protect generated list of .ZIP Domains on 01 Oct 2023  
 ! Homepage: https://hack-protect.si/
 
 0-beta.zip
@@ -7302,3 +7302,9 @@ stargroup.zip
 lund.zip
 cuevana.zip
 7brew.zip
+sorin.zip
+cray.zip
+malvernpanalytical.zip
+bidvest.zip
+mpbigonsmall.zip
+mitch.zip
